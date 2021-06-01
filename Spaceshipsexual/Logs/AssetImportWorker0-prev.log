@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Berk Demir/Documents/GitHub/Spaceshipsexual
+C:/Users/Berk Demir/Documents/GitHub/Veronic/Spaceshipsexual
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-7814
-Successfully changed project path to: C:/Users/Berk Demir/Documents/GitHub/Spaceshipsexual
-C:/Users/Berk Demir/Documents/GitHub/Spaceshipsexual
+5988
+Successfully changed project path to: C:/Users/Berk Demir/Documents/GitHub/Veronic/Spaceshipsexual
+C:/Users/Berk Demir/Documents/GitHub/Veronic/Spaceshipsexual
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 359.45 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 134.02 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.8f1 (507919d4fff5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Berk Demir/Documents/GitHub/Spaceshipsexual/Assets
+[Subsystems] Discovering subsystems at path C:/Users/Berk Demir/Documents/GitHub/Veronic/Spaceshipsexual/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,18 +35,243 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56144
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56916
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.008005 seconds.
+Registered in 0.007502 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 136.52 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 116.17 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  9.617 seconds
+- Completed reload, in  6.142 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004267 seconds.
+Registered in 0.002208 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 155.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.023 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.20 seconds
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1908 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 87.6 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2343.
+Total: 5.866700 ms (FindLiveObjects: 0.342300 ms CreateObjectMapping: 0.096500 ms MarkObjects: 5.286400 ms  DeleteObjects: 0.139100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Characters/noBKG_KnightIdle_strip_0.controller
+  artifactKey: Guid(8799c71a00fda64428d89691e0027879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/noBKG_KnightIdle_strip_0.controller using Guid(8799c71a00fda64428d89691e0027879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1a1e44ec4201db6097a1692efaf3f9') in 0.147982 seconds
+  Import took 0.170660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000997 seconds.
+  path: Assets/Characters/charrun.anim
+  artifactKey: Guid(e4ce3f6918509774aaac4697939d3793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/charrun.anim using Guid(e4ce3f6918509774aaac4697939d3793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81ae3842d733045a28e12b35655998dc') in 0.033282 seconds
+  Import took 0.045547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.783999 seconds.
+  path: Assets/Enemy/Hell-Hound-Files
+  artifactKey: Guid(020682e83c057404691f46acfaed7785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/Hell-Hound-Files using Guid(020682e83c057404691f46acfaed7785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b5c8ffd005322183688c251b2ab2ed') in 0.020734 seconds
+  Import took 0.038421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102097 seconds.
+  path: Assets/Enemy/Hell-Hound-Files/get-more.jpg
+  artifactKey: Guid(71f0979508492cf46b2602f258b2254d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/Hell-Hound-Files/get-more.jpg using Guid(71f0979508492cf46b2602f258b2254d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59d85a6e36d75c952e04f7f2938c589f') in 0.283495 seconds
+  Import took 0.296287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.044196 seconds.
+  path: Assets/Enemy/Hell-Hound-Files/PNG
+  artifactKey: Guid(1029628de07d5c849b75c1ceb24b05fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/Hell-Hound-Files/PNG using Guid(1029628de07d5c849b75c1ceb24b05fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3980fb478a523ca65c345135930be1e3') in 0.032091 seconds
+  Import took 0.041291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.080546 seconds.
+  path: Assets/Enemy/Hell-Hound-Files/PNG/hell-hound-idle.png
+  artifactKey: Guid(411d5f912e21c0749a5b4cd2568c0b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/Hell-Hound-Files/PNG/hell-hound-idle.png using Guid(411d5f912e21c0749a5b4cd2568c0b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0ce3cf27a8a7bc405f6b0d377bad1f3') in 0.048790 seconds
+  Import took 0.056267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/Enemy/Hell-Hound-Files/PNG/hell-hound-jump.png
+  artifactKey: Guid(6d9a5c6e328c1134ba3d6ac68cbe5f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/Hell-Hound-Files/PNG/hell-hound-jump.png using Guid(6d9a5c6e328c1134ba3d6ac68cbe5f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11884194bd5f578f024d17e5c7f41d7c') in 0.058253 seconds
+  Import took 0.066305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Enemy/Hell-Hound-Files/PNG/hell-hound-walk.png
+  artifactKey: Guid(ec530dd25976e074e9eec00160ecf7a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/Hell-Hound-Files/PNG/hell-hound-walk.png using Guid(ec530dd25976e074e9eec00160ecf7a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '771f308797406fdd7cd6ba163fb5b0f1') in 0.055742 seconds
+  Import took 0.066103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/Enemy/Hell-Hound-Files/PNG/hell-hound-jump.png
+  artifactKey: Guid(6d9a5c6e328c1134ba3d6ac68cbe5f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/Hell-Hound-Files/PNG/hell-hound-jump.png using Guid(6d9a5c6e328c1134ba3d6ac68cbe5f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11884194bd5f578f024d17e5c7f41d7c') in 0.024690 seconds
+  Import took 0.033637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/Enemy/Hell-Hound-Files/PNG/hell-hound-run.png
+  artifactKey: Guid(c20522d3f8e33c448b3588f1013ca876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/Hell-Hound-Files/PNG/hell-hound-run.png using Guid(c20522d3f8e33c448b3588f1013ca876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9ed4272f046bad515ec9d05db9d3f1') in 0.069215 seconds
+  Import took 0.080721 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 16.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.2 MB.
+System memory in use after: 53.3 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2357.
+Total: 5.341900 ms (FindLiveObjects: 0.382200 ms CreateObjectMapping: 0.099900 ms MarkObjects: 4.810800 ms  DeleteObjects: 0.046400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.475777 seconds.
+  path: Assets/Enemy/Hell-Hound-Files/PNG/hell-hound-idle.png
+  artifactKey: Guid(411d5f912e21c0749a5b4cd2568c0b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/Hell-Hound-Files/PNG/hell-hound-idle.png using Guid(411d5f912e21c0749a5b4cd2568c0b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db7de8673b37e6b7d96cdd398c7d51d') in 0.026906 seconds
+  Import took 0.035865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.403210 seconds.
+  path: Assets/Enemy/Hell-Hound-Files/PNG/hell-hound-idle.png
+  artifactKey: Guid(411d5f912e21c0749a5b4cd2568c0b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/Hell-Hound-Files/PNG/hell-hound-idle.png using Guid(411d5f912e21c0749a5b4cd2568c0b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd705cbb4f27004a18360b1247d26e6d2') in 0.054911 seconds
+  Import took 0.062440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 191.175208 seconds.
+  path: Assets/Enemy/Fire-Skull-Files
+  artifactKey: Guid(84d0d972cb331b343be7d45e1858dd6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/Fire-Skull-Files using Guid(84d0d972cb331b343be7d45e1858dd6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29afc72250feffb3a95d7a59f7a0872c') in 0.028227 seconds
+  Import took 0.036112 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002812 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.497 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1898 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.3 MB.
+System memory in use after: 90.5 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2367.
+Total: 4.171500 ms (FindLiveObjects: 0.340700 ms CreateObjectMapping: 0.102400 ms MarkObjects: 3.682400 ms  DeleteObjects: 0.043300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.680332 seconds.
+  path: Assets/Enemy/demon-Files/PNG/breath-fire.png
+  artifactKey: Guid(a9fde573a6ed4624d9e005949b42a593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/demon-Files/PNG/breath-fire.png using Guid(a9fde573a6ed4624d9e005949b42a593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45aeefac05795bbcc868208a7f34394e') in 0.132569 seconds
+  Import took 0.145191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.597542 seconds.
+  path: Assets/Enemy/demon-Files/PNG/breath-fire.png
+  artifactKey: Guid(a9fde573a6ed4624d9e005949b42a593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/demon-Files/PNG/breath-fire.png using Guid(a9fde573a6ed4624d9e005949b42a593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c575957e1d9bf310bd9c3c6b9debc1f7') in 0.295484 seconds
+  Import took 0.302852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.489542 seconds.
+  path: Assets/Enemy/demon-Files/PNG/demon-attack-no-breath.png
+  artifactKey: Guid(9aa806eb971645f4283caf3edd3fe4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/demon-Files/PNG/demon-attack-no-breath.png using Guid(9aa806eb971645f4283caf3edd3fe4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45a9248e71323eaede04057c85b54eeb') in 0.032891 seconds
+  Import took 0.039557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.915447 seconds.
+  path: Assets/Enemy/demon-Files/PNG/demon-attack-no-breath.png
+  artifactKey: Guid(9aa806eb971645f4283caf3edd3fe4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/demon-Files/PNG/demon-attack-no-breath.png using Guid(9aa806eb971645f4283caf3edd3fe4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fb737aa1753e230751c29e52610487a') in 0.107036 seconds
+  Import took 0.114382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.193570 seconds.
+  path: Assets/Enemy/demon-Files/PNG/demon-attack-no-breath 1.png
+  artifactKey: Guid(a063e939df3d2514b8d46052e6cc888f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/demon-Files/PNG/demon-attack-no-breath 1.png using Guid(a063e939df3d2514b8d46052e6cc888f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e95bb14ea066dd9912a9174eebdb8235') in 0.075355 seconds
+  Import took 0.083795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 116.432099 seconds.
+  path: Assets/Enemy/demon-Files/PNG/demon-attack-no-breath_0.controller
+  artifactKey: Guid(1d042410a1b5fcb49a31c3d381aa925b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy/demon-Files/PNG/demon-attack-no-breath_0.controller using Guid(1d042410a1b5fcb49a31c3d381aa925b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ee5af09833471dad3d47d2f441209f5') in 0.025700 seconds
+  Import took 0.034513 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004366 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.445 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1898 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.5 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2433.
+Total: 4.641300 ms (FindLiveObjects: 0.328200 ms CreateObjectMapping: 0.097000 ms MarkObjects: 4.165200 ms  DeleteObjects: 0.047600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
