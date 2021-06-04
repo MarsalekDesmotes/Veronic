@@ -41,7 +41,7 @@ public class CharacterMovement: MonoBehaviour
 			Flip();
 		}
 
-		if (Input.GetKeyDown(KeyCode.Space))
+		if (Input.GetKeyDown(KeyCode.W))
 		{
 			Jump();
 		}
